@@ -22,14 +22,7 @@
 
 // // Firebase configuration
 // const firebaseConfig = {
-//   apiKey: "AIzaSyBpUe31YaUeAcF3dffIdOvxn1cCSx98ax8",
-//   authDomain: "khazra-5f0c0.firebaseapp.com",
-//   projectId: "khazra-5f0c0",
-//   storageBucket: "khazra-5f0c0.firebasestorage.app",
-//   messagingSenderId: "897436544779",
-//   appId: "1:897436544779:web:a19bf742561ac91bf6bc0e",
-//   measurementId: "G-6P9V93K22W"
-// };
+//}
 
 // const app = initializeApp(firebaseConfig);
 // const db = getFirestore(app);
